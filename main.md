@@ -3,20 +3,32 @@
 ## 'Final' doc
 
    ![Final doc](/figures/finalDoc.png)
-
+<br>
+<br>
+<br>
+<br>
 
 ## Recording your progress
 
 ![Recording progress](/figures/play-changes.svg)
-
+<br>
+<br>
+<br>
+<br>
 ## 2 people 2 versions
 
 ![Versions](/figures/versions.svg)
-
+<br>
+<br>
+<br>
+<br>
 ## 2 people 1 version
 
 ![](/figures/merge.svg)
-
+<br>
+<br>
+<br>
+<br>
 # 2 Setting up git
 
 `git config --global user.name "Vlad Dracula" ` 
@@ -34,7 +46,10 @@ And on Windows:    `git config --global core.autocrlf true`
 ## Text editors
 
 ![](/figures/textEditors.PNG)
-
+<br>
+<br>
+<br>
+<br>
 # 3 Creating a repository
 
 ## Exercise 3.1
